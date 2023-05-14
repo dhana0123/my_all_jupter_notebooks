@@ -1,0 +1,7 @@
+pip install matplotlib
+pip install numpy
+pip install tensorflow
+pip install scikit-learn
+pip install ipympl
+pip install pandas
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
